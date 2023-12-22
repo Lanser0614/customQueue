@@ -1,0 +1,17 @@
+{
+    "name": "lanser/custom-queue",
+    "autoload": {
+        "psr-4": {
+            "Lanser\\CustomQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AnvarovD",
+            "email": "doniyer.anvarov@alif.uz"
+        }
+    ],
+    "require": {
+        "ext-redis": "*"
+    }
+}
